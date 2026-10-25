@@ -1,8 +1,8 @@
-Live site: https://ktforge.github.io/company-homepage-flexbox/
-
 # KT Forge Company Homepage
 
 A one-page homepage for KT Forge, my app studio, built with HTML and CSS Flexbox. This came out of the Flexbox section of Codecademy's Full-Stack Engineer path. The project lets you design a homepage for any company, so I used my own instead of making one up.
+
+Live site: https://ktforge.github.io/company-homepage-flexbox/
 
 ## What's on the page
 
